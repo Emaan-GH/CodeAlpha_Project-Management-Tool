@@ -1,0 +1,14 @@
+{
+  "name": "flowdesk",
+  "version": "1.0.0",
+  "description": "FlowDesk - collaborative project management tool (Task 3)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=22.5.0" },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "ws": "^8.18.0"
+  }
+}
