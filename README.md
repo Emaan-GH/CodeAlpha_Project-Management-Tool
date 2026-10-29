@@ -18,7 +18,7 @@ Node.js 22.5 or newer is required (tested with Node 22/24).
     npm install
     npm start
 
-Open http://localhost:3000
+Open http://localhost:5000
 
 Database file `flowdesk.db` is created automatically
 (tables: users, projects, members, tasks, comments, notifications).
